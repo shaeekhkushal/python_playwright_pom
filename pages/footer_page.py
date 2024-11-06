@@ -1,5 +1,4 @@
 from lib2to3.fixes.fix_input import context
-
 from pages.base_page import BasePage
 import time
 
